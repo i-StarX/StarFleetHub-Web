@@ -1,0 +1,8 @@
+import { Page, Locator, test, expect, } from '@playwright/test';
+IMPORTS
+
+test('TC_NAME', { tag: [TAG] }, async ({ page }) => {
+
+    STEPS
+
+});
