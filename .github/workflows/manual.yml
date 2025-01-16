@@ -1,4 +1,4 @@
-name: Deployment
+name: Manual Run
 
 on:
   workflow_dispatch:
